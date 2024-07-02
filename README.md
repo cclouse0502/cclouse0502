@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cclouse0502
+- 👋 Hi, I’m Caden Clouse
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Projects
